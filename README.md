@@ -4,8 +4,7 @@ I am a Java Developer focusing on Spring Boot (Back-End),  Angular (Web Front-En
 
 
 <div>
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=devgustavopavao&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=devgustavopavao&layout=compact&theme=dracula">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=devgustavopavao&show_icons=true&theme=dracula&count_private=true"><img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=devgustavopavao&layout=compact&theme=dracula">
 </div>
 
 🧰 Technologies I use on a day-to-day life
