@@ -1,4 +1,4 @@
-### Welcome to my GitHub
+<h1> Welcome to my GitHub </h1>
 
 I am a Java Developer focusing on Spring Boot (Back-End),  Angular (Web Front-End) and Android with Java/Kotlin (Mobile Development).
 
@@ -17,18 +17,19 @@ I am a Java Developer focusing on Spring Boot (Back-End),  Angular (Web Front-En
       
   </ul>
   <br/>
+  <h1> Languages and framework's </h1> <br>
   <div>
-    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/java.svg'>
-     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/kotlin-1.svg'>
-    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/spring-3.svg'>
-     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
-    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
-     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg'>
-      <img height='50em' src="https://cdn.worldvectorlogo.com/logos/jquery-3.svg">
-     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/angular-3.svg">
+    <img height='40em' src='https://cdn.worldvectorlogo.com/logos/java.svg'>
+     <img height='40em' src='https://cdn.worldvectorlogo.com/logos/kotlin-1.svg'>
+    <img height='40em' src='https://cdn.worldvectorlogo.com/logos/spring-3.svg'>
+     <img height='40em' src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
+    <img height='40em' src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+    <img height='40em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+    <img height='40em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+    <img height='40em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
+     <img height='40em' src='https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg'>
+      <img height='40em' src="https://cdn.worldvectorlogo.com/logos/jquery-3.svg">
+     <img height='40em' src="https://cdn.worldvectorlogo.com/logos/angular-3.svg">
      
   </div>
 
