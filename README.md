@@ -12,7 +12,7 @@ I am a Java Developer focusing on Spring Boot (Back-End),  Angular (Web Front-En
       <li>Mobile Android with Java and Kotlin</li>
       <li>Front-End with Angular/jQuery/Boostrap and others</li>
       <li>Back-End with Java Spring</li>
-      <li>Database services with SQL/Postaga</li>
+      <li>Database services with SQL/Postgresql</li>
       
   </ul>
   <br/>
