@@ -18,12 +18,14 @@ I am a Android Developer focusing in solutions using Java and Kotlin.
   </ul>
   <br/>
   
-  <h2> Languages & Technologies </h2>
+  <h2> Main Languages and others</h2>
   <div>
     <img height='40em' src='https://cdn.worldvectorlogo.com/logos/java.svg'>
      <img height='40em' src='https://cdn.worldvectorlogo.com/logos/kotlin-1.svg'>
-    <img height='40em' src='https://cdn.worldvectorlogo.com/logos/firebase-1.svg'>
-    <img height='40em' src='https://cdn.worldvectorlogo.com/logos/android.svg'> 
+     <img height='40em' src='https://cdn.worldvectorlogo.com/logos/javascript-1.svg'> 
+     <img height='40em' src='https://cdn.worldvectorlogo.com/logos/html-1.svg'> 
+     <img height='40em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'> 
+     <img height='40em' src='https://cdn.worldvectorlogo.com/logos/android.svg'> 
  
      
   </div>
