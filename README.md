@@ -25,8 +25,7 @@ I am a Java Developer
      <img height='40em' src='https://cdn.worldvectorlogo.com/logos/javascript-1.svg'> 
      <img height='40em' src='https://cdn.worldvectorlogo.com/logos/html-1.svg'> 
      <img height='40em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'> 
-     <img height='40em' src='https://cdn.worldvectorlogo.com/logos/postgresql.svg'> 
-      <img height='40em' src='https://cdn.worldvectorlogo.com/logos/jquery.svg'> 
+     <img height='40em' src='https://cdn.worldvectorlogo.com/logos/postgresql.svg'>
       <img height='40em' src='https://cdn.worldvectorlogo.com/logos/spring-3.svg'> 
       <img height='40em' src='https://cdn.worldvectorlogo.com/logos/hibernate.svg'> 
       <img height='40em' src='https://cdn.worldvectorlogo.com/logos/angular-3.svg'> 
