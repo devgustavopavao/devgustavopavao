@@ -1,6 +1,6 @@
 <h1> Welcome to my GitHub </h1>
 
-I am a Android Developer focusing in solutions using Java and Kotlin.
+I am a Java Developer
 
 
 <div>
@@ -9,11 +9,11 @@ I am a Android Developer focusing in solutions using Java and Kotlin.
 
 🧰 Technologies I use on a day-to-day life
   <ul>
-      <li>Java for android code Legacy</li>
+      <li>Java</li>
       <li>Kotlin for current developments on android</li>
-      <li>Database services with SQL/Room/Realm/Firebase and others</li>
-      <li>Software architectures MVVM,CLEAN,MVC,MVP</li>
-    <li>and others technologies using Jetpack</li>
+      <li>Spring Boot Services</li>
+      <li>JPA,HIBERNATE,JSF,JDBC,SQL,PostgreSQL</li>
+    <li>Front-End = Angular,Jquery,JS,TS,Thymeleaf,PrimeFaces</li>
       
   </ul>
   <br/>
@@ -25,7 +25,12 @@ I am a Android Developer focusing in solutions using Java and Kotlin.
      <img height='40em' src='https://cdn.worldvectorlogo.com/logos/javascript-1.svg'> 
      <img height='40em' src='https://cdn.worldvectorlogo.com/logos/html-1.svg'> 
      <img height='40em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'> 
-     <img height='40em' src='https://cdn.worldvectorlogo.com/logos/android.svg'> 
+     <img height='40em' src='https://cdn.worldvectorlogo.com/logos/postgresql.svg'> 
+      <img height='40em' src='https://cdn.worldvectorlogo.com/logos/jquery.svg'> 
+      <img height='40em' src='https://cdn.worldvectorlogo.com/logos/spring-3.svg'> 
+      <img height='40em' src='https://cdn.worldvectorlogo.com/logos/hibernate.svg'> 
+         <img height='40em' src='https://cdn.worldvectorlogo.com/logos/angular-3.svg'> 
+      
  
      
   </div>
