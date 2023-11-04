@@ -29,7 +29,7 @@ I am a Java Developer
       <img height='40em' src='https://cdn.worldvectorlogo.com/logos/spring-3.svg'> 
       <img height='40em' src='https://cdn.worldvectorlogo.com/logos/hibernate.svg'> 
       <img height='40em' src='https://cdn.worldvectorlogo.com/logos/angular-3.svg'> 
-      <img height='40em' src=' https://cdn.worldvectorlogo.com/logos/aws-2.svg'> 
+      <img height='40em' src='https://cdn.worldvectorlogo.com/logos/aws-2.svg'> 
         
       
  
