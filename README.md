@@ -12,8 +12,8 @@ I am a Java Developer
       <li>Java</li>
       <li>Kotlin for current developments on android</li>
       <li>Spring Boot Services</li>
-      <li>JPA,HIBERNATE,JSF,JDBC,SQL,PostgreSQL</li>
-    <li>Front-End = Angular,Jquery,JS,TS,Thymeleaf,PrimeFaces</li>
+      <li>JPA,HIBERNATE,JSF,JDBC,SQL,PostgreSQL, AWS</li>
+    <li>Front-End = Angular,Jquery,JS,TS,Thymeleaf,BootStrap, and outhers</li>
       
   </ul>
   <br/>
