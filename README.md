@@ -1,6 +1,6 @@
 <h1> Welcome to my GitHub </h1>
 
-I am a Java Developer
+Hi! I'm Android Developer
 
 
 <div>
@@ -11,10 +11,7 @@ I am a Java Developer
   <ul>
       <li>Java</li>
       <li>Kotlin for current developments on android</li>
-      <li>Spring Boot Services</li>
-      <li>JPA,HIBERNATE,JSF,JDBC,SQL,PostgreSQL, AWS</li>
-    <li>Front-End = Angular,Jquery,JS,TS,Thymeleaf,BootStrap, and outhers</li>
-      
+        
   </ul>
   <br/>
   
@@ -22,14 +19,8 @@ I am a Java Developer
   <div>
     <img height='40em' src='https://cdn.worldvectorlogo.com/logos/java.svg'>
      <img height='40em' src='https://cdn.worldvectorlogo.com/logos/kotlin-1.svg'>
-     <img height='40em' src='https://cdn.worldvectorlogo.com/logos/javascript-1.svg'> 
-     <img height='40em' src='https://cdn.worldvectorlogo.com/logos/html-1.svg'> 
-     <img height='40em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'> 
-     <img height='40em' src='https://cdn.worldvectorlogo.com/logos/postgresql.svg'>
-      <img height='40em' src='https://cdn.worldvectorlogo.com/logos/spring-3.svg'> 
-      <img height='40em' src='https://cdn.worldvectorlogo.com/logos/hibernate.svg'> 
-      <img height='40em' src='https://cdn.worldvectorlogo.com/logos/angular-3.svg'> 
-      <img height='40em' src='https://cdn.worldvectorlogo.com/logos/aws-2.svg'> 
+      <img height='40em' src='https://cdn.worldvectorlogo.com/logos/android.svg'>
+      
         
       
  
