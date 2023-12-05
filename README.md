@@ -6,13 +6,6 @@ Hi! I'm Android Developer
 <div>
     <img height="135em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=devgustavopavao&show_icons=true&theme=dracula&count_private=false"><img height="135em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=devgustavopavao&layout=compact&theme=dracula">
 </div>
-
-🧰 Technologies I use on a day-to-day life
-  <ul>
-      <li>Java</li>
-      <li>Kotlin for current developments on android</li>
-        
-  </ul>
   <br/>
   
   <h2> Main Languages and others</h2>
